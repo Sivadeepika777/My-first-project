@@ -6,3 +6,8 @@ int main() {
     printf("Learning GitHub Basics\n");
     return 0;
 }
+
+o/p
+Hello GitHub!
+Name:Sivah
+Learning GitHub Basics
