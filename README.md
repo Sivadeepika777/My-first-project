@@ -1,2 +1,8 @@
-# My-first-project
-This repository is created for my GitHub learning activity.
+#include <stdio.h>
+
+int main() {
+    printf("Hello GitHub!\n");
+    printf("Name: Sivah\n");
+    printf("Learning GitHub Basics\n");
+    return 0;
+}
